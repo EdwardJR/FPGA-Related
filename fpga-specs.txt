@@ -1,0 +1,4 @@
+Family  : spartan 6
+Device  : XC6SLX9
+package : FTG256
+ 

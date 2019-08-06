@@ -1,0 +1,9 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Aug 06 05:42:35 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "LED" LOCATE = SITE "A4" LEVEL 1;
+COMP "CLK_50MHz" LOCATE = SITE "T8" LEVEL 1;
+SCHEMATIC END;
+
